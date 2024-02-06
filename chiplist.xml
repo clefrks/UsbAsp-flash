@@ -377,6 +377,7 @@
       <MX25L512A id="C22010" page="256" size="65536"/>
       <MX25L512C id="C22010" page="256" size="65536"/>
       <MX25L5121E id="C22210" page="32" size="65536"/>
+      <MX25L51245G id="C2201A" page="256" size="67108864"/>
       <MX25L6405 id="C22017" page="256" size="8388608"/>
       <MX25L6405D id="C22017" page="256" size="8388608"/>
       <MX25L6406E id="C22017" page="256" size="8388608"/>
